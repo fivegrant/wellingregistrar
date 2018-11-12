@@ -1,0 +1,4 @@
+Jacob Sanders,6,1238983421,jacobsanders@bennington.edu
+Five Grant,6,9014895728,fivegrant@bennington.edu
+Tom Gill,2,0000000000,trash@hotmail.com
+Walker Elsworth,67,1112223333,walker@bennington.edu

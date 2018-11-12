@@ -1,0 +1,7 @@
+#!/usr/bin/env python3 
+import welling
+
+print("Welcome to the Welling Registrar")
+welling.pickem()
+print("Have a Nice Day")
+exit()
